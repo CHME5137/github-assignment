@@ -1,10 +1,11 @@
-# github-assignment
+#github-assignment
 
 People who have completed this assignment, in alphabetical order of last name:
 
 Last Name | First Name | husky id | github id      | avatar
 ---------|------------|-----------|-----------|---------
-Finkelstein | Joshua |     |     |
+Finkelstein | Joshua |    finkelstein.j |    [joshuafinkelstein](https://github.com/joshuafinkelstein/) | (https://github.com/joshuafinkelstein.png)
+Fonseca Garcia | Javier |     |     | |
 Fonseca Garcia | Javier |     |     |
 Jia | Zhen |     |     |
 Kim | Matthew |     |     |

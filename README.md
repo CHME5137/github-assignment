@@ -6,7 +6,7 @@ Last Name | First Name | husky id | github id      | avatar
 ---------|------------|-----------|-----------|---------
 Finkelstein | Joshua |     |     |
 Fonseca Garcia | Javier |     |     |
-Jia | Zhen |     |     |
+Jia | Zhen |   jia.zhen1  |Jiazhen1994    |
 Kim | Matthew |     |     |
 Li | Yuan |     |     |
 Liao | Yoan-Ting |     |     |

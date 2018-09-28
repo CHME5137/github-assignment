@@ -13,7 +13,7 @@ Liao | Yoan-Ting |     |     |
 Liu | Yingge |     |     |
 Lu | Zhicheng |     |     |
 Mendoza Semidey | Eduardo |     |     |
-Pearlman | Brendon |     |     |
+Pearlman | Brendon | pearlman.b    |   [bpearlman97](https://github.com/rwest) | ![bpearlman97](https://github.com/bpearlman97.png?size=40)
 Rosenberg | David |     |     |
 Singh | Bhavya |     |     |
 Vozikis | Rachel |     |     |

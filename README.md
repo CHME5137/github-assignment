@@ -15,21 +15,10 @@ Lu | Zhicheng | lu.zhi  | [ZhichengLu94](https://github.com/ZhichengLu94) |![Zhi
 Mendoza Semidey | Eduardo |mendoza.ed|[emendoza13](https://github.com/emendoza13)| ![emendoza13](https://github.com/emendoza13.png?size=40)
 Pearlman | Brendon |     |     |
 Rosenberg | David | rosenberg.dav    |  [David-Rosenberg](https://github.com/david-rosenberg)	| ![David-Rosenberg](https://github.com/david-rosenberg.png?size=40)
-Singh | Bhavya |     |     |
+Singh | Bhavya |singh.bhav|[bhavyasinghh](https://github.com/bhavyasinghh)|![bhavyasinghh](https://github.com/bhavyasinghh.png?size=40)
 Vozikis | Rachel |  vozikis.r  |  [rvozikis](https://github.com/rvozikis)   |![rvozikis](https://github.com/rvozikis.png?size=40)
 Wai | Francesco |     |     |
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
 Xu | Jiaming |  xu.jiam   |   [JP-Xu](https://github.com/JP-Xu)   | ![JP-Xu](https://github.com/JP-Xu.png?size=40)
 Zakrzewski | Samuel |     |     |
 Zhu | Shu |  zhu.shu1   |   [zhushu1](https://github.com/zhushu1)        | ![zhushu1](https://github.com/zhushu1.png?size=40)
-
-
-
-
-
-
-
-
-
-
-

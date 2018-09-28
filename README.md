@@ -17,7 +17,7 @@ Pearlman | Brendon |     |     |
 Rosenberg | David | rosenberg.dav    |  [David-Rosenberg](https://github.com/david-rosenberg)	| ![David-Rosenberg](https://github.com/david-rosenberg.png?size=40)
 Singh | Bhavya |singh.bhav|[bhavyasinghh](https://github.com/bhavyasinghh)|![bhavyasinghh](https://github.com/bhavyasinghh.png?size=40)
 Vozikis | Rachel |  vozikis.r  |  [rvozikis](https://github.com/rvozikis)   |![rvozikis](https://github.com/rvozikis.png?size=40)
-Wai | Francesco |     |     |
+Wai | Francesco | wai.f    | [francescowai](https://github.com/francescowai)    | ![francescowai](https://github.com/francescowai.png?size=40)
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
 Xu | Jiaming |  xu.jiam   |   [JP-Xu](https://github.com/JP-Xu)   | ![JP-Xu](https://github.com/JP-Xu.png?size=40)
 Zakrzewski | Samuel |zakrzewski.s     |[samzak1](https://github.com/samzak1)     |![samzak1](https://github.com/samzak1.png?size=40)     |     |

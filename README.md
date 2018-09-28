@@ -9,7 +9,7 @@ Fonseca Garcia | Javier | fonsecagarcia.j |   [JavierFonseca](https://github.com
 Jia | Zhen |  jia.zhen1   |  [Jiazhen1994](https://github.com/Jiazhen1994)   | ![Jiazhen1994](https://github.com/Jiazhen1994.png?size=40)
 Kim | Matthew |   kim.matth  | [mattakimv](https://github.com/mattakimv)  | ![mattakimv](https://github.com/mattakimv.png?size=40)
 Li | Yuan |  li.yuan5  |   [liyuan1993](https://github.com/liyuan1993/) | ![liyuan1993](https://avatars0.githubusercontent.com/u/43114076?s=40&v=4)
-Liao | Yoan-Ting |     |     |
+Liao | Yoan-Ting |  liao.yo   | [yoanting](https://github.com/yoanting)    |![yoanting](https://github.com/yoanting.png?size=40)
 Liu | Yingge | liu.yingg  |  [Yingge-Liu](https://github.com/Yingge-Liu)  | ![Yingge-Liu](https://github.com/Yingge-Liu.png?size=40)
 Lu | Zhicheng | lu.zhi  | [ZhichengLu94](https://github.com/ZhichengLu94) |![ZhichengLu94](https://github.com/ZhichengLu94.png?size=40)
 Mendoza Semidey | Eduardo |mendoza.ed|[emendoza13](https://github.com/emendoza13)| ![emendoza13](https://github.com/emendoza13.png?size=40)

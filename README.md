@@ -1,4 +1,4 @@
-#github-assignment
+# github-assignment
 
 People who have completed this assignment, in alphabetical order of last name:
 

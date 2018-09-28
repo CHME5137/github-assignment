@@ -20,5 +20,6 @@ Vozikis | Rachel |  vozikis.r  |  [rvozikis](https://github.com/rvozikis)   |![r
 Wai | Francesco |     |     |
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
 Xu | Jiaming |  xu.jiam   |   [JP-Xu](https://github.com/JP-Xu)   | ![JP-Xu](https://github.com/JP-Xu.png?size=40)
-Zakrzewski | Samuel |     |     |
+Zakrzewski | Samuel |zakrzewski.s     |[samzak1](https://github.com/samzak1)     |![samzak1](https://github.com/samzak1.png?size=40)     |     |
 Zhu | Shu |  zhu.shu1   |   [zhushu1](https://github.com/zhushu1)        | ![zhushu1](https://github.com/zhushu1.png?size=40)
+

@@ -15,7 +15,7 @@ Lu | Zhicheng |     |     |
 Mendoza Semidey | Eduardo |     |     |
 Pearlman | Brendon |     |     |
 Rosenberg | David |     |     |
-Singh | Bhavya |singh.bhav|[bhavyasinghh](https://github.com/bhavyasinghh)|[bhavyasinghh](https://github.com/bhavyasinghh.png?size=40)
+Singh | Bhavya |singh.bhav|[bhavyasinghh](https://github.com/bhavyasinghh)|[bhavyasinghh](https://avatars3.githubusercontent.com/u/43562083?s=400&u=169a81200fdf2d40174d35566501477b1aa2e552&v=4)
 Vozikis | Rachel |     |     |
 Wai | Francesco |     |     |
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)

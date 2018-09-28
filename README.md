@@ -9,7 +9,7 @@ Fonseca Garcia | Javier |     |     |
 Jia | Zhen |     |     |
 Kim | Matthew |     |     |
 Li | Yuan |     |     |
-Liao | Yoan-Ting |  liao.yo   | yoanting    |
+Liao | Yoan-Ting |  liao.yo   | [yoanting](https://github.com/yoanting)    |![yoanting](https://github.com/yoanting.png?size=40)
 Liu | Yingge |     |     |
 Lu | Zhicheng |     |     |
 Mendoza Semidey | Eduardo |     |     |

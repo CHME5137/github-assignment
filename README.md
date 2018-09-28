@@ -17,7 +17,7 @@ Pearlman | Brendon |     |     |
 Rosenberg | David |     |     |
 Singh | Bhavya |     |     |
 Vozikis | Rachel |     |     |
-Wai | Francesco | wai.f    | [francescowai] (https://github.com/francescowai)    | ![francescowai](https://github.com/francescowai.png?size=40)
+Wai | Francesco | wai.f    | [francescowai](https://github.com/francescowai)    | ![francescowai](https://github.com/francescowai.png?size=40)
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
 Xu | Jiaming |     |     |
 Zakrzewski | Samuel |     |     |

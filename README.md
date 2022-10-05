@@ -56,6 +56,6 @@ Khalil    |            |          |           |
 Kordorwu  |            |          |           | 
 Makhura   |            |          |           | 
 Mani      |            |          |           | 
-Raymond   |            |          |           | 
+Raymond   | Ted        | raymond.ed | [t-raymond](https://github.com/rwest)     | ![t-raymond](https://github.com/t-raymond.png?size=40)
 Von Ahnen |            |          |           | 
 West      | Richard    | r.west   |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)

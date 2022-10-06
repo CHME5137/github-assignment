@@ -53,7 +53,7 @@ Byrd      |            |          |           |
 Guida     |            |          |           | 
 Hoyt      |            |          |           | 
 Khalil    |            |          |           | 
-Kordorwu  |            |          |           | 
+Kordorwu  | Victus     |kordorwu.v| [kordorw](https://github.com/kordorw)  | ![kordorw](https://github.com/kordorw.png?size=40) 
 Makhura   |            |          |           | 
 Mani      |            |          |           | 
 Raymond   | Ted        | raymond.ed | [t-raymond](https://github.com/t-raymond)     | ![t-raymond](https://github.com/t-raymond.png?size=40)

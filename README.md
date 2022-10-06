@@ -52,7 +52,7 @@ Bingham-Maas  |        |          |           |
 Byrd      |            |          |           | 
 Guida     |            |          |           | 
 Hoyt      |            |          |           | 
-Khalil    |            |          |           | 
+Khalil    | Nora       | khalil.nor | [Nora-Khalil](https://github.com/Nora-Khalil)    | ![Nora-Khalil](https://github.com/Nora-Khalil.png?size=40) 
 Kordorwu  |            |          |           | 
 Makhura   |            |          |           | 
 Mani      |            |          |           | 

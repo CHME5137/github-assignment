@@ -55,7 +55,7 @@ Hoyt      |            |          |           |
 Khalil    |            |          |           | 
 Kordorwu  |            |          |           | 
 Makhura   |            |          |           | 
-Mani      |            |          |           | 
+Mani      | Natesan           | mani.na         | natesana(https://github.com/natesana         |[natesana]((https://github.com/natesana.png?size=40)
 Raymond   | Ted        | raymond.ed | [t-raymond](https://github.com/t-raymond)     | ![t-raymond](https://github.com/t-raymond.png?size=40)
 Von Ahnen |            |          |           | 
 West      | Richard    | r.west   |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)

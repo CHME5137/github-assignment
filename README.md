@@ -57,5 +57,5 @@ Kordorwu  |            |          |           |
 Makhura   |            |          |           | 
 Mani      |            |          |           | 
 Raymond   | Ted        | raymond.ed | [t-raymond](https://github.com/t-raymond)     | ![t-raymond](https://github.com/t-raymond.png?size=40)
-Von Ahnen |            |          |           | 
+Von Ahnen | William    |vonahnen.w|vonahnen-w |(https://github.com/vonahnen-w)
 West      | Richard    | r.west   |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)

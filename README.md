@@ -54,7 +54,10 @@ Guida     |            |          |           |
 Hoyt      |            |          |           | 
 Khalil    |            |          |           | 
 Kordorwu  |            |          |           | 
-Makhura   |            |          |           | 
+Makhura   | Pax        | makhura.p|PaxEmmanuel|[PaxEmmanuel](https://github.com/PaxEmmanuel)|![PaxEmmanuel](https://github.com/t-raymond.png?size=40)
+
+
+ 
 Mani      |            |          |           | 
 Raymond   | Ted        | raymond.ed | [t-raymond](https://github.com/t-raymond)     | ![t-raymond](https://github.com/t-raymond.png?size=40)
 Von Ahnen |            |          |           | 

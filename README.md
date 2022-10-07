@@ -54,7 +54,7 @@ Guida     |            |          |           |
 Hoyt      |            |          |           | 
 Khalil    |            |          |           | 
 Kordorwu  |            |          |           | 
-Makhura   | Pax        | makhura.p|PaxEmmanuel|[PaxEmmanuel](https://github.com/PaxEmmanuel)|![PaxEmmanuel](https://github.com/PaxEmmanuel.png?size=40)
+Makhura   | Pax        | makhura.p|[PaxEmmanuel](https://github.com/PaxEmmanuel)|![PaxEmmanuel](https://github.com/PaxEmmanuel.png?size=40)
 
 
  

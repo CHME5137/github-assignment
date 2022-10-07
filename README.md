@@ -49,7 +49,7 @@ People who have completed this assignment, in alphabetical order of last name:
 Last Name | First Name | husky id | github id | avatar
 ----------|------------|----------|-----------|---------
 Bingham-Maas  |Liam        |bingham-maas.l          |[liambinghammaas](https://github.com/liambinghammaas)           | ![liambinghammaas](https://github.com/liambinghammaas.png?size=40)
-Byrd      |            |          |           | 
+Byrd      | Christian  | byrd.c   |  [Cbyrd1599](https://github.com/CByrd1599)| ![CByrd1599](https://github.com/CByrd1599.png?size=40) 
 Guida     |            |          |           | 
 Hoyt      |            |          |           | 
 Khalil    | Nora       | khalil.nor | [Nora-Khalil](https://github.com/Nora-Khalil)    | ![Nora-Khalil](https://github.com/Nora-Khalil.png?size=40) 

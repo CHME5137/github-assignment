@@ -51,7 +51,7 @@ Last Name | First Name | husky id | github id | avatar
 Bingham-Maas  |Liam        |bingham-maas.l          |[liambinghammaas](https://github.com/liambinghammaas)           | ![liambinghammaas](https://github.com/liambinghammaas.png?size=40)
 Byrd      | Christian  | byrd.c   |  [Cbyrd1599](https://github.com/CByrd1599)| ![CByrd1599](https://github.com/CByrd1599.png?size=40) 
 Guida     |	Dominick   | guida.do | [d-guida](https://github.com/d-guida)          | ![d-guida](https://github.com/d-guida.png?size=40)
-Hoyt      |            |          |           | 
+Hoyt      | Katie      | hoyt.k   | [katiehoyt](https://github.com/katiehoyt) |  ![katiehoyt](https://github.com/katiehoyt.png?size=40)
 Khalil    | Nora       | khalil.nor | [Nora-Khalil](https://github.com/Nora-Khalil)    | ![Nora-Khalil](https://github.com/Nora-Khalil.png?size=40) 
 Kordorwu  | Victus     |kordorwu.v| [kordorw](https://github.com/kordorw)  | ![kordorw](https://github.com/kordorw.png?size=40) 
 Makhura   |            |          |           | 

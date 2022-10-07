@@ -1,4 +1,4 @@
-# github-assignment
+L# github-assignment
 
 0. Install git on your computer.
 0. Set up git on your computer, configuring your user Name and email address
@@ -48,7 +48,7 @@ People who have completed this assignment, in alphabetical order of last name:
 
 Last Name | First Name | husky id | github id | avatar
 ----------|------------|----------|-----------|---------
-Bingham-Maas  |        |          |           | 
+Bingham-Maas  |Liam        |bingham-maas.l          |[liambinghammaas](https://github.com/liambinghammaas)           | ![liambinghammaas](https://github.com/liambinghammaas.png?size=40)
 Byrd      |            |          |           | 
 Guida     |            |          |           | 
 Hoyt      |            |          |           | 

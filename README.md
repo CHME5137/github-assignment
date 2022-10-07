@@ -50,7 +50,7 @@ Last Name | First Name | husky id | github id | avatar
 ----------|------------|----------|-----------|---------
 Bingham-Maas  |        |          |           | 
 Byrd      |            |          |           | 
-Guida     |            |          |           | 
+Guida     |	Dominick   | guida.do | [d-guida](https://github.com/d-guida)          | ![d-guida](https://github.com/d-guida.png?size=40) 
 Hoyt      |            |          |           | 
 Khalil    | Nora       | khalil.nor | [Nora-Khalil](https://github.com/Nora-Khalil)    | ![Nora-Khalil](https://github.com/Nora-Khalil.png?size=40) 
 Kordorwu  |            |          |           | 

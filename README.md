@@ -1,4 +1,4 @@
-L# github-assignment
+# github-assignment
 
 0. Install git on your computer.
 0. Set up git on your computer, configuring your user Name and email address

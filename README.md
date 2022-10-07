@@ -53,7 +53,7 @@ Byrd      |            |          |           |
 Guida     |            |          |           | 
 Hoyt      |            |          |           | 
 Khalil    | Nora       | khalil.nor | [Nora-Khalil](https://github.com/Nora-Khalil)    | ![Nora-Khalil](https://github.com/Nora-Khalil.png?size=40) 
-Kordorwu  |            |          |           | 
+Kordorwu  | Victus     |kordorwu.v| [kordorw](https://github.com/kordorw)  | ![kordorw](https://github.com/kordorw.png?size=40) 
 Makhura   |            |          |           | 
 Mani      | Natesan           | mani.na         | [natesana](https://github.com/natesana)        |![natesana](https://github.com/natesana.png?size=40)
 Raymond   | Ted        | raymond.ed | [t-raymond](https://github.com/t-raymond)     | ![t-raymond](https://github.com/t-raymond.png?size=40)

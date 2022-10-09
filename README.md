@@ -57,5 +57,5 @@ Kordorwu  | Victus     |kordorwu.v| [kordorw](https://github.com/kordorw)  | ![k
 Makhura   | Pax        | makhura.p|[PaxEmmanuel](https://github.com/PaxEmmanuel)|![PaxEmmanuel](https://github.com/PaxEmmanuel.png?size=40)
 Mani      | Natesan           | mani.na         | [natesana](https://github.com/natesana)        |![natesana](https://github.com/natesana.png?size=40)
 Raymond   | Ted        | raymond.ed | [t-raymond](https://github.com/t-raymond)     | ![t-raymond](https://github.com/t-raymond.png?size=40)
-Von Ahnen |            |          |           | 
+Von Ahnen | William    |vonahnen.w |[vonahnen-w](https://github.com/vonahnen-w) | ![vonahnen-w](https://github.com/vonahnen-w.png?size=40)
 West      | Richard    | r.west   |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)

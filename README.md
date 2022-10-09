@@ -54,7 +54,7 @@ Guida     |	Dominick   | guida.do | [d-guida](https://github.com/d-guida)       
 Hoyt      | Katie      | hoyt.k   | [katiehoyt](https://github.com/katiehoyt) |  ![katiehoyt](https://github.com/katiehoyt.png?size=40)
 Khalil    | Nora       | khalil.nor | [Nora-Khalil](https://github.com/Nora-Khalil)    | ![Nora-Khalil](https://github.com/Nora-Khalil.png?size=40) 
 Kordorwu  | Victus     |kordorwu.v| [kordorw](https://github.com/kordorw)  | ![kordorw](https://github.com/kordorw.png?size=40) 
-Makhura   |            |          |           | 
+Makhura   | Pax        | makhura.p|[PaxEmmanuel](https://github.com/PaxEmmanuel)|![PaxEmmanuel](https://github.com/PaxEmmanuel.png?size=40)
 Mani      | Natesan           | mani.na         | [natesana](https://github.com/natesana)        |![natesana](https://github.com/natesana.png?size=40)
 Raymond   | Ted        | raymond.ed | [t-raymond](https://github.com/t-raymond)     | ![t-raymond](https://github.com/t-raymond.png?size=40)
 Von Ahnen |            |          |           | 

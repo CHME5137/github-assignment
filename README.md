@@ -38,6 +38,6 @@ Preston-Werner    | Tom       | preston-werner.t | [mojombo](https://github.com/
    |   | roberts.ja        |   |     
 Torvalds   | Linus      | torvalds.l      | [torvalds](https://github.com/torvalds) | ![torvalds](https://github.com/torvalds.png?size=40)
 West      | Richard    | r.west     | [rwest](https://github.com/rwest)             | ![rwest](https://github.com/rwest.png?size=40)
-   |   | wallach.ma        |   |     
+Wallach   | Matthew  | wallach.ma        | [wallachma](https://github.com/wallachma)  | ![wallachma](https://github.com/wallachma.png?size=40)    
    |   | wong.le        |   |     
    |   | 

@@ -24,7 +24,7 @@ People who have completed this assignment, in alphabetical order of last name:
 Last Name | First Name | husky id   | github id | avatar
 ----------|------------|------------|-----------|---------
    |   | akinyemi.az        |   |     
-   |   | biney.j        |   |     
+Biney |Joylynn Awurama | biney.j        |amajb22   |     
    |   | davis.li        |   |     
    |   | hartley.me        |   |     
    |   | hilgembergmerlin.j        |   |     

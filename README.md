@@ -39,5 +39,5 @@ Preston-Werner    | Tom       | preston-werner.t | [mojombo](https://github.com/
 Torvalds   | Linus      | torvalds.l      | [torvalds](https://github.com/torvalds) | ![torvalds](https://github.com/torvalds.png?size=40)
 West      | Richard    | r.west     | [rwest](https://github.com/rwest)             | ![rwest](https://github.com/rwest.png?size=40)
 Wallach   | Matthew  | wallach.ma        | [wallachma](https://github.com/wallachma)  | ![wallachma](https://github.com/wallachma.png?size=40)    
-Wong   | Lenon   | wong.le        | lenon714   | [lenon7142](https://github.com/lenon714) | ![lenon7142](https://github.com/lenon714.png?size=40)     
+Wong   | Lenon   | wong.le        | lenon714   | [lenon7142](https://github.com/lenon7142) | ![lenon7142](https://github.com/lenon7142.png?size=40)     
    |   | 

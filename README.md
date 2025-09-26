@@ -28,7 +28,7 @@ Last Name | First Name | husky id   | github id | avatar
    |   | davis.li        |   |     
    |   | hartley.me        |   |     
    |   | hilgembergmerlin.j        |   |     
-   |   | leduc.c        |   |     
+Caroline   | Leduc  | leduc.c        | [biker42](https://github.com/biker42)   | ![biker42](https://github.com/biker42.png?size=40)     
    |   | lekia.p        |   |     
    |   | obidara.t        |   |     
    |   | ou.p        |   |     

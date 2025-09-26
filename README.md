@@ -26,7 +26,7 @@ Last Name | First Name | husky id   | github id | avatar
    |   | akinyemi.az        |   |     
    |   | biney.j        |   |     
    |   | davis.li        |   |     
-   |   | hartley.me        |   |     
+Hartley   | Meghan  | hartley.me        | [meghanhartley](https://github.com/meghanhartley)  | ![meghanhartley](https://github.com/meghanhartley.png?size=40)    
    |   | hilgembergmerlin.j        |   |     
 Caroline   | Leduc  | leduc.c        | [biker42](https://github.com/biker42)   | ![biker42](https://github.com/biker42.png?size=40)     
    |   | lekia.p        |   |     

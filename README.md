@@ -40,4 +40,3 @@ Torvalds   | Linus      | torvalds.l      | [torvalds](https://github.com/torval
 West      | Richard    | r.west     | [rwest](https://github.com/rwest)         | ![rwest](https://github.com/rwest.png?size=40)
 Wallach   | Matthew  | wallach.ma        | [wallachma](https://github.com/wallachma)  | ![wallachma](https://github.com/wallachma.png?size=40)    
    |   | wong.le        |   |     
-   |   | 

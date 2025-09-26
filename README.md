@@ -29,7 +29,7 @@ Last Name | First Name | husky id   | github id | avatar
    |   | hartley.me        |   |     
    |   | hilgembergmerlin.j        |   |     
 Caroline   | Leduc  | leduc.c        | [biker42](https://github.com/biker42)   | ![biker42](https://github.com/biker42.png?size=40)     
-   |   | lekia.p        |   |     
+  Lekia | Prosper  | lekia.p        | [LekiaAnonim](https://github.com/LekiaAnonim)  | ![LekiaAnonim](https://github.com/LekiaAnonim.png?size=40)    
    |   | obidara.t        |   |     
    |   | ou.p        |   |     
    |   | qu.zhiyu        |   |     

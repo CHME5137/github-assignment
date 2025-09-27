@@ -31,7 +31,7 @@ Last Name | First Name | husky id   | github id | avatar
 Caroline   | Leduc  | leduc.c        | [biker42](https://github.com/biker42)   | ![biker42](https://github.com/biker42.png?size=40)     
    |   | lekia.p        |   |     
    |   | obidara.t        |   |     
-  Ou | Derick  | ou.p        |  [derickopc](https://github.com/derickopc |     [derickopc](https://github.com/derickopc.png?size=40) 
+  Ou | Derick  | ou.p        |  [derickopc](https://github.com/derickopc) |     [derickopc](https://github.com/derickopc.png?size=40) 
    |   | qu.zhiyu        |   |     
 Preston-Werner    | Tom       | preston-werner.t | [mojombo](https://github.com/mojombo) | ![mojombo](https://github.com/mojombo.png?size=40) 
    |   | roberts.da        |   |     

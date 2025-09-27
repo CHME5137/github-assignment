@@ -29,7 +29,7 @@ Last Name | First Name | husky id   | github id | avatar
    |   | hartley.me        |   |     
    |   | hilgembergmerlin.j        |   |     
 Caroline   | Leduc  | leduc.c        | [biker42](https://github.com/biker42)   | ![biker42](https://github.com/biker42.png?size=40)     
-   |   | lekia.p        |   |     
+  Lekia | Prosper  | lekia.p        | [LekiaAnonim](https://github.com/LekiaAnonim)  | ![LekiaAnonim](https://github.com/LekiaAnonim.png?size=40)    
    |   | obidara.t        |   |     
   Ou | Derick  | ou.p        |  [derickopc](https://github.com/derickopc) |     [derickopc](https://github.com/derickopc.png?size=40) 
    |   | qu.zhiyu        |   |     
@@ -37,7 +37,6 @@ Preston-Werner    | Tom       | preston-werner.t | [mojombo](https://github.com/
    |   | roberts.da        |   |     
    |   | roberts.ja        |   |     
 Torvalds   | Linus      | torvalds.l      | [torvalds](https://github.com/torvalds) | ![torvalds](https://github.com/torvalds.png?size=40)
-West      | Richard    | r.west     | [rwest](https://github.com/rwest)             | ![rwest](https://github.com/rwest.png?size=40)
+West      | Richard    | r.west     | [rwest](https://github.com/rwest)         | ![rwest](https://github.com/rwest.png?size=40)
 Wallach   | Matthew  | wallach.ma        | [wallachma](https://github.com/wallachma)  | ![wallachma](https://github.com/wallachma.png?size=40)    
    |   | wong.le        |   |     
-   |   | 

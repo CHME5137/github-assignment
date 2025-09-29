@@ -27,7 +27,7 @@ Last Name | First Name | husky id   | github id | avatar
    |   | biney.j        |   |     
    |   | davis.li        |   |     
    |   | hartley.me        |   |     
-   |   | hilgembergmerlin.j        |   |     
+Hilgemberg Merlin   | Julia  | hilgembergmerlin.j        | [juliahmerlin](https://github.com/juliahmerlin)  | ![juliahmerlin](https://github.com/juliahmerlin.png?size=40)    
 Caroline   | Leduc  | leduc.c        | [biker42](https://github.com/biker42)   | ![biker42](https://github.com/biker42.png?size=40)     
   Lekia | Prosper  | lekia.p        | [LekiaAnonim](https://github.com/LekiaAnonim)  | ![LekiaAnonim](https://github.com/LekiaAnonim.png?size=40)    
    |   | obidara.t        |   |     

@@ -34,7 +34,7 @@ Caroline   | Leduc  | leduc.c        | [biker42](https://github.com/biker42)   |
    |   | ou.p        |   |     
    |   | qu.zhiyu        |   |     
 Preston-Werner    | Tom       | preston-werner.t | [mojombo](https://github.com/mojombo) | ![mojombo](https://github.com/mojombo.png?size=40) 
-   |   | roberts.da        |   |     
+Roberts   | Daisy  | roberts.da        | [daisysroberts1825](https://github.com/daisysroberts1825)   | ![daisysroberts1825](https://github.com/daisysroberts1825.png?size=40)     
    |   | roberts.ja        |   |     
 Torvalds   | Linus      | torvalds.l      | [torvalds](https://github.com/torvalds) | ![torvalds](https://github.com/torvalds.png?size=40)
 West      | Richard    | r.west     | [rwest](https://github.com/rwest)             | ![rwest](https://github.com/rwest.png?size=40)

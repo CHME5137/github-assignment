@@ -30,7 +30,7 @@ Hartley   | Meghan  | hartley.me        | [meghanhartley](https://github.com/meg
 Hilgemberg Merlin   | Julia  | hilgembergmerlin.j        | [juliahmerlin](https://github.com/juliahmerlin)  | ![juliahmerlin](https://github.com/juliahmerlin.png?size=40)    
 Caroline   | Leduc  | leduc.c        | [biker42](https://github.com/biker42)   | ![biker42](https://github.com/biker42.png?size=40)     
   Lekia | Prosper  | lekia.p        | [LekiaAnonim](https://github.com/LekiaAnonim)  | ![LekiaAnonim](https://github.com/LekiaAnonim.png?size=40)    
-   |   | obidara.t        |   |     
+   Obidara|Toheeb   | obidara.t        | Toheebobidara  | https://github.com/Toheebobidara    
   Ou | Derick  | ou.p        |  [derickopc](https://github.com/derickopc) |     ![derickopc](https://github.com/derickopc.png?size=40) 
    |   | qu.zhiyu        |   |     
 Preston-Werner    | Tom       | preston-werner.t | [mojombo](https://github.com/mojombo) | ![mojombo](https://github.com/mojombo.png?size=40) 

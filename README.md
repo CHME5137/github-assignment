@@ -39,4 +39,4 @@ Roberts   | Jake  | roberts.ja      | [jake-roberts-1](https://github.com/jake-r
 Torvalds   | Linus      | torvalds.l      | [torvalds](https://github.com/torvalds) | ![torvalds](https://github.com/torvalds.png?size=40)
 West      | Richard    | r.west     | [rwest](https://github.com/rwest)         | ![rwest](https://github.com/rwest.png?size=40)
 Wallach   | Matthew  | wallach.ma        | [wallachma](https://github.com/wallachma)  | ![wallachma](https://github.com/wallachma.png?size=40)    
-   |   | wong.le        |   |     
+Wong   | Lenon   | wong.le        | [lenon714](http://github.com/lenon714)  | ![lenon714](https://github.com/lenon714.png?size=40)    

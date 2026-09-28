@@ -19,6 +19,8 @@
 
 ### The assignment
 
+You might need to look up some of the terminology (fork, repository, clone, branch...), but try to follow the steps carefully.
+
 1. Fork this repository to your account.
 2. Clone your fork to your computer.
 3. Create a new branch called something like `Becky` (where you use your own name), and switch to (or check out) that branch. Don't make your changes on `master`.

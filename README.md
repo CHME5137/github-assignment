@@ -11,8 +11,11 @@
 3. Create a GitHub account (use a professional, recognizable, memorable, easy-to-type, username).
 4. Use your .edu email address to sign up for student developer pack goodies from GitHub.
 5. Let git sign in to GitHub. GitHub no longer accepts your password for `git push`, so do one of these:
-   - in VS Code, sign in to GitHub from the Accounts icon (bottom left), then push from the Source Control panel; or
-   - install the [GitHub CLI](https://cli.github.com/) and run `gh auth login` once.
+   - in VS Code, sign in to GitHub from the Accounts icon (bottom left), then push from the Source Control panel;
+   - install the [GitHub CLI](https://cli.github.com/) and run `gh auth login` once; or
+   - set up an [SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) (the same idea as logging in to Explorer), and clone with the `git@github.com:…` address instead of `https://…`.
+
+   On Windows, Git for Windows usually handles this for you: the first push opens a browser window to sign in.
 
 ### The assignment
 

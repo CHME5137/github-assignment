@@ -53,6 +53,10 @@ That's normal, and fixing it is part of the exercise:
 
 Ask for help if you get stuck.
 
+### Afterwards: notebooks in git
+
+Using git with Jupyter notebooks? Read [notebooks-and-git.md](notebooks-and-git.md) for the habits and the setup (jupytext) that we recommend.
+
 
 ## 2026
 

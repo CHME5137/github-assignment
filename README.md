@@ -34,7 +34,7 @@ You might need to look up some of the terminology (fork, repository, clone, bran
    ```
    After that, plain `git push` is enough.
 9. Check that it looks right on GitHub: on your fork, pick your branch from the branch menu, and check that your row and avatar show up in the table.
-10. Open a Pull Request, asking to merge your `Becky` branch (or whatever it's called) into `main` of [CHME5137/github-assignment](https://github.com/CHME5137/github-assignment), the original repository, not your fork. Right after you push, GitHub usually offers a **Compare & pull request** button. Give it a short description: what it changes, and (since AI use is encouraged on this assignment) what you asked an AI assistant along the way, and what it told you.
+10. Open a Pull Request, asking to merge your `Becky` branch (or whatever it's called) into `main` of [CHME5137/github-assignment](https://github.com/CHME5137/github-assignment), the original repository, not your fork. Right after you push, GitHub usually offers a **Compare & pull request** button. Give it a short description: what it changes, and (since AI use is encouraged on this assignment) how you used an AI assistant along the way.
 
 ### If your pull request has conflicts
 

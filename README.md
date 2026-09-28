@@ -17,26 +17,18 @@
 8. Visit the CHME5137 fork on GitHub, and open a Pull Request, requesting to merge your `Becky` (or whatever it's called) branch
 
 
-## 2025
+## 2026
 
-People who have completed this assignment, in alphabetical order of last name:
+People who have completed this assignment, in alphabetical order of last name.
+
+To add yourself, copy this line into the table below, in the right place alphabetically, and replace every `LastName`, `FirstName`, `husky.id` and `githubid` (the GitHub username appears four times):
+
+```
+LastName  | FirstName  | husky.id   | [githubid](https://github.com/githubid) | ![githubid](https://github.com/githubid.png?size=40)
+```
 
 Last Name | First Name | husky id   | github id | avatar
 ----------|------------|------------|-----------|---------
-Akinyemi  | Azeez   | akinyemi.az |  [azeezakinyemi999](https://github.com/Azeezakinyemi999)        |   ![azeezakinyemi999](https://github.com/azeezakinyemi999.png?size=40)
-Biney | Joylynn Awurama | biney.j   | amajb22   |     
-   |   | davis.li        |   |     
-Hartley   | Meghan  | hartley.me        | [meghanhartley](https://github.com/meghanhartley)  | ![meghanhartley](https://github.com/meghanhartley.png?size=40)    
-Hilgemberg Merlin   | Julia  | hilgembergmerlin.j        | [juliahmerlin](https://github.com/juliahmerlin)  | ![juliahmerlin](https://github.com/juliahmerlin.png?size=40)    
-Caroline   | Leduc  | leduc.c        | [biker42](https://github.com/biker42)   | ![biker42](https://github.com/biker42.png?size=40)     
-  Lekia | Prosper  | lekia.p        | [LekiaAnonim](https://github.com/LekiaAnonim)  | ![LekiaAnonim](https://github.com/LekiaAnonim.png?size=40)    
-   |   | obidara.t        |   |     
-  Ou | Derick  | ou.p        |  [derickopc](https://github.com/derickopc) |     ![derickopc](https://github.com/derickopc.png?size=40) 
-   |   | qu.zhiyu        |   |     
-Preston-Werner    | Tom       | preston-werner.t | [mojombo](https://github.com/mojombo) | ![mojombo](https://github.com/mojombo.png?size=40) 
-Roberts   | Daisy  | roberts.da        | [daisysroberts1825](https://github.com/daisysroberts1825)   | ![daisysroberts1825](https://github.com/daisysroberts1825.png?size=40)     
-Roberts   | Jake  | roberts.ja      | [jake-roberts-1](https://github.com/jake-roberts-1)             | ![jake-roberts-1](https://github.com/jake-roberts-1.png?size=40)    
-Torvalds   | Linus      | torvalds.l      | [torvalds](https://github.com/torvalds) | ![torvalds](https://github.com/torvalds.png?size=40)
-West      | Richard    | r.west     | [rwest](https://github.com/rwest)         | ![rwest](https://github.com/rwest.png?size=40)
-Wallach   | Matthew  | wallach.ma        | [wallachma](https://github.com/wallachma)  | ![wallachma](https://github.com/wallachma.png?size=40)    
-Wong   | Lenon   | wong.le        | [lenon714](http://github.com/lenon714)  | ![lenon714](https://github.com/lenon714.png?size=40)    
+Preston-Werner | Tom   | preston-werner.t | [mojombo](https://github.com/mojombo) | ![mojombo](https://github.com/mojombo.png?size=40)
+Torvalds  | Linus      | torvalds.l | [torvalds](https://github.com/torvalds) | ![torvalds](https://github.com/torvalds.png?size=40)
+West      | Richard    | r.west     | [rwest](https://github.com/rwest) | ![rwest](https://github.com/rwest.png?size=40)

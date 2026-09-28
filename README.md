@@ -23,7 +23,7 @@ You might need to look up some of the terminology (fork, repository, clone, bran
 
 1. Fork this repository to your account.
 2. Clone your fork to your computer.
-3. Create a new branch called something like `Becky` (where you use your own name), and switch to (or check out) that branch. Don't make your changes on `master`.
+3. Create a new branch called something like `Becky` (where you use your own name), and switch to (or check out) that branch. Don't make your changes on `main`.
 4. Add your details in the table at the bottom of this README.md file. Copy the template line, and carefully follow an example that's already there, like Richard West. It is formatted in [Markdown](https://www.markdownguide.org/), or more specifically [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), so be careful with the pipes and dashes.
 5. Save your changes.
 6. Stage your edits.
@@ -34,20 +34,20 @@ You might need to look up some of the terminology (fork, repository, clone, bran
    ```
    After that, plain `git push` is enough.
 9. Check that it looks right on GitHub: on your fork, pick your branch from the branch menu, and check that your row and avatar show up in the table.
-10. Open a Pull Request, asking to merge your `Becky` branch (or whatever it's called) into `master` of [CHME5137/github-assignment](https://github.com/CHME5137/github-assignment), the original repository, not your fork. Right after you push, GitHub usually offers a **Compare & pull request** button. Give it a short description: what it changes, and (since AI use is encouraged on this assignment) what you asked an AI assistant along the way, and what it told you.
+10. Open a Pull Request, asking to merge your `Becky` branch (or whatever it's called) into `main` of [CHME5137/github-assignment](https://github.com/CHME5137/github-assignment), the original repository, not your fork. Right after you push, GitHub usually offers a **Compare & pull request** button. Give it a short description: what it changes, and (since AI use is encouraged on this assignment) what you asked an AI assistant along the way, and what it told you.
 
 ### If your pull request has conflicts
 
 Everyone is editing the same table, so if someone else's pull request is merged first, GitHub may say your branch *has conflicts that must be resolved*.
 That's normal, and fixing it is part of the exercise:
 
-1. On your fork's GitHub page, click **Sync fork**, to bring your fork's `master` up to date.
+1. On your fork's GitHub page, click **Sync fork**, to bring your fork's `main` up to date.
 2. On your computer, on your branch:
    ```
    git fetch origin
-   git merge origin/master
+   git merge origin/main
    ```
-   (`git pull origin master` will refuse, with *Need to specify how to reconcile divergent branches*.)
+   (`git pull origin main` will refuse, with *Need to specify how to reconcile divergent branches*.)
 3. Open README.md, find the lines between `<<<<<<<` and `>>>>>>>`, and keep **both** rows, in alphabetical order. Delete the `<<<<<<<`, `=======` and `>>>>>>>` lines.
 4. Stage, commit and `git push`. The pull request updates itself.
 

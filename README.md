@@ -73,5 +73,4 @@ Last Name | First Name | husky id   | github id | avatar
 Preston-Werner | Tom   | preston-werner.t | [mojombo](https://github.com/mojombo) | ![mojombo](https://github.com/mojombo.png?size=40)
 Torvalds  | Linus      | torvalds.l | [torvalds](https://github.com/torvalds) | ![torvalds](https://github.com/torvalds.png?size=40)
 West      | Richard    | r.west     | [rwest](https://github.com/rwest) | ![rwest](https://github.com/rwest.png?size=40)
-
 Languet   | Joshua     | languet.j  | [languenni](https://github.com/languenni) | ![languenni](https://github.com/languenni.png?size=40)

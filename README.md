@@ -71,5 +71,6 @@ LastName  | FirstName  | husky.id   | [githubid](https://github.com/githubid) | 
 Last Name | First Name | husky id   | github id | avatar
 ----------|------------|------------|-----------|---------
 Preston-Werner | Tom   | preston-werner.t | [mojombo](https://github.com/mojombo) | ![mojombo](https://github.com/mojombo.png?size=40)
+Reddy | Dileep | kunduru.d | [Dileep-2](https://github.com/Dileep-2) | ![Dileep-2](https://github.com/Dileep-2.png?size=40)
 Torvalds  | Linus      | torvalds.l | [torvalds](https://github.com/torvalds) | ![torvalds](https://github.com/torvalds.png?size=40)
 West      | Richard    | r.west     | [rwest](https://github.com/rwest) | ![rwest](https://github.com/rwest.png?size=40)

@@ -82,3 +82,7 @@ Preston-Werner | Tom   | preston-werner.t | [mojombo](https://github.com/mojombo
 Reddy | Dileep | kunduru.d | [Dileep-2](https://github.com/Dileep-2) | ![Dileep-2](https://github.com/Dileep-2.png?size=40)
 Torvalds  | Linus      | torvalds.l | [torvalds](https://github.com/torvalds) | ![torvalds](https://github.com/torvalds.png?size=40)
 West      | Richard    | r.west     | [rwest](https://github.com/rwest) | ![rwest](https://github.com/rwest.png?size=40)
+Hudzik    | Hunter     | hudzik.h   | [githubid](https://github.com/hudzikh) | ![hudzikh](https://github.comd.hudzikh,png?size=40)
+
+
+

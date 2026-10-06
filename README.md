@@ -70,6 +70,8 @@ LastName  | FirstName  | husky.id   | [githubid](https://github.com/githubid) | 
 
 Last Name | First Name | husky id   | github id | avatar
 ----------|------------|------------|-----------|---------
+Fernandez | Alex       | Alex777777777777777  | [Alex777777777777777](https://github.com/Alex777777777777777) | ![Alex777777777777777](https://github.com/Alex777777777777777.png?size=40)
+Kamal     | Kamal      | kamal.ka   | [KamalKamal-code](https://github.com/KamalKamal-code) | ![KamalKamal-code](https://github.com/KamalKamal-code.png?size=40)
 Karuturi  | Mohanbalaji | karuturi.mo | [MohanBalaji007](https://github.com/MohanBalaji007) | ![MohanBalaji007](https://github.com/MohanBalaji007.png?size=40)
 Languet   | Joshua     | languet.j  | [languenni](https://github.com/languenni) | ![languenni](https://github.com/languenni.png?size=40)
 Preston-Werner | Tom   | preston-werner.t | [mojombo](https://github.com/mojombo) | ![mojombo](https://github.com/mojombo.png?size=40)

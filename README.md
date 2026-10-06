@@ -75,4 +75,5 @@ Preston-Werner | Tom   | preston-werner.t | [mojombo](https://github.com/mojombo
 Torvalds  | Linus      | torvalds.l | [torvalds](https://github.com/torvalds) | ![torvalds](https://github.com/torvalds.png?size=40)
 West      | Richard    | r.west     | [rwest](https://github.com/rwest) | ![rwest](https://github.com/rwest.png?size=40)
 Languet   | Joshua     | languet.j  | [languenni](https://github.com/languenni) | ![languenni](https://github.com/languenni.png?size=40)
+Libby | Mitchell | libby.mi   | [mitchellmlibby](https://github.com/mitchellmlibby) | ![mitchellmlibby](https://github.com/mitchellmlibby.png?size=40)
 Fernandez | Alex       | Alex777777777777777  | [Alex777777777777777](https://github.com/Alex777777777777777) | ![Alex777777777777777](https://github.com/Alex777777777777777.png?size=40)

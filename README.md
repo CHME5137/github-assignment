@@ -78,3 +78,4 @@ Pavanasam Mohanavel | Nitya Ganesh | pavanasammohanavel.n | [NityaGanesh33](http
 Preston-Werner | Tom   | preston-werner.t | [mojombo](https://github.com/mojombo) | ![mojombo](https://github.com/mojombo.png?size=40)
 Torvalds  | Linus      | torvalds.l | [torvalds](https://github.com/torvalds) | ![torvalds](https://github.com/torvalds.png?size=40)
 West      | Richard    | r.west     | [rwest](https://github.com/rwest) | ![rwest](https://github.com/rwest.png?size=40)
+Licklider | Conor|licklider.c | [Clicks2027](https://github.com/Clicks2027) | ![Clicks2027](https://github.com/Clicks2027.png?size=40)

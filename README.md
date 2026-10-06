@@ -76,3 +76,4 @@ Torvalds  | Linus      | torvalds.l | [torvalds](https://github.com/torvalds) | 
 West      | Richard    | r.west     | [rwest](https://github.com/rwest) | ![rwest](https://github.com/rwest.png?size=40)
 Languet   | Joshua     | languet.j  | [languenni](https://github.com/languenni) | ![languenni](https://github.com/languenni.png?size=40)
 Fernandez | Alex       | Alex777777777777777  | [Alex777777777777777](https://github.com/Alex777777777777777) | ![Alex777777777777777](https://github.com/Alex777777777777777.png?size=40)
+Uloh      | Benjamin   | uloh.b     | [Benuloh99](https://github.com/benuloh99) | ![languenni](https://github.com/benuloh99.png?size=40)

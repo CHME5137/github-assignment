@@ -71,6 +71,7 @@ LastName  | FirstName  | husky.id   | [githubid](https://github.com/githubid) | 
 Last Name | First Name | husky id   | github id | avatar
 ----------|------------|------------|-----------|---------
 Fernandez | Alex       | fernandez.alex | [FernAlex707](https://github.com/FernAlex707) | ![FernAlex707](https://github.com/FernAlex707.png?size=40)
+Governor  | Christopher | governor.c | [chrisgov12356](https://github.com/chrisgov12356) | ![chrisgov12356](https://github.com/chrisgov12356.png?size=40)
 Kamal     | Kamal      | kamal.ka   | [KamalKamal-code](https://github.com/KamalKamal-code) | ![KamalKamal-code](https://github.com/KamalKamal-code.png?size=40)
 Languet   | Joshua     | languet.j  | [languenni](https://github.com/languenni) | ![languenni](https://github.com/languenni.png?size=40)
 Libby | Mitchell | libby.mi   | [mitchellmlibby](https://github.com/mitchellmlibby) | ![mitchellmlibby](https://github.com/mitchellmlibby.png?size=40)

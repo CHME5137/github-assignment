@@ -72,6 +72,7 @@ Last Name | First Name | husky id   | github id | avatar
 ----------|------------|------------|-----------|---------
 Fernandez | Alex       | fernandez.alex | [FernAlex707](https://github.com/FernAlex707) | ![FernAlex707](https://github.com/FernAlex707.png?size=40)
 Governor  | Christopher | governor.c | [chrisgov12356](https://github.com/chrisgov12356) | ![chrisgov12356](https://github.com/chrisgov12356.png?size=40)
+Hudzik    | Hunter     | hudzik.h   | [hudzikh](https://github.com/hudzikh) | ![hudzikh](https://github.com/hudzikh.png?size=40)
 Kamal     | Kamal      | kamal.ka   | [KamalKamal-code](https://github.com/KamalKamal-code) | ![KamalKamal-code](https://github.com/KamalKamal-code.png?size=40)
 Karuturi  | Mohanbalaji | karuturi.mo | [MohanBalaji007](https://github.com/MohanBalaji007) | ![MohanBalaji007](https://github.com/MohanBalaji007.png?size=40)
 Languet   | Joshua     | languet.j  | [languenni](https://github.com/languenni) | ![languenni](https://github.com/languenni.png?size=40)

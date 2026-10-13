@@ -74,6 +74,7 @@ Fernandez | Alex       | fernandez.alex | [FernAlex707](https://github.com/FernA
 Kamal     | Kamal      | kamal.ka   | [KamalKamal-code](https://github.com/KamalKamal-code) | ![KamalKamal-code](https://github.com/KamalKamal-code.png?size=40)
 Languet   | Joshua     | languet.j  | [languenni](https://github.com/languenni) | ![languenni](https://github.com/languenni.png?size=40)
 Libby | Mitchell | libby.mi   | [mitchellmlibby](https://github.com/mitchellmlibby) | ![mitchellmlibby](https://github.com/mitchellmlibby.png?size=40)
+Licklider | Conor      | licklider.c | [Clicks2027](https://github.com/Clicks2027) | ![Clicks2027](https://github.com/Clicks2027.png?size=40)
 Pavanasam Mohanavel | Nitya Ganesh | pavanasammohanavel.n | [NityaGanesh33](https://github.com/NityaGanesh33) | ![NityaGanesh33](https://github.com/NityaGanesh33.png?size=40)
 Preston-Werner | Tom   | preston-werner.t | [mojombo](https://github.com/mojombo) | ![mojombo](https://github.com/mojombo.png?size=40)
 Reddy | Dileep | kunduru.d | [Dileep-2](https://github.com/Dileep-2) | ![Dileep-2](https://github.com/Dileep-2.png?size=40)
